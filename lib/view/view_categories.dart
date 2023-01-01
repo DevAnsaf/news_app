@@ -40,7 +40,7 @@ class _ViewCategoriesState extends State<ViewCategories> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             Text(
-              "News App",
+              "~ News App ~",
               style: TextStyle(color: Colors.white),
             )
           ],
