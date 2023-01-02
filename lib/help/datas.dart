@@ -10,6 +10,7 @@ List<CategoryModel> getCategories() {
       "https://media.istockphoto.com/id/1383977365/photo/shot-of-two-businesspeople-discussing-something-on-a-digital-tablet.webp?s=612x612&w=is&k=20&c=C9oeLP5G2FWDOvPMZjdcnK4vinE2R3mY-5XsbfK4G1E=";
   category.add(categoryModel);
   categoryModel = new CategoryModel();
+
   /////////////////
   categoryModel = new CategoryModel();
   categoryModel.categoriesName = "Entertainment";

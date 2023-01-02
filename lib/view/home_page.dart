@@ -7,7 +7,6 @@ import 'package:news_app_final/model/model_category.dart';
 import 'package:flutter/material.dart';
 import 'package:news_app_final/view/view_articles.dart';
 import 'package:news_app_final/view/view_categories.dart';
-// import 'package:news_app_final/view/home_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -48,7 +47,7 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             Text(
-              "~ News App ~",
+              "~ Global News ~",
               style: TextStyle(color: Colors.white),
             ),
           ],

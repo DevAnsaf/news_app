@@ -24,7 +24,7 @@ class _ViewArticleState extends State<ViewArticle> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             Text(
-              "~ News App ~",
+              "~ Global News ~",
               style: TextStyle(color: Colors.white),
             )
           ],
